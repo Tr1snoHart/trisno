@@ -1,8 +1,1 @@
-mkdir halaman-github
-cd halaman-github
-echo "Hello World! wellcome to my web
-git init
-gi add index.hhhhhhhhhhhtml
-git commit -m "first commit"
-git remote add orign https://github
-git push -u origin master
+
